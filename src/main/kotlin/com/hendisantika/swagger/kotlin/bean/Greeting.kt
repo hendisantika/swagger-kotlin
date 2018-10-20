@@ -11,10 +11,10 @@ import io.swagger.annotations.ApiModelProperty
  * Time: 5:51 AM
  * To change this template use File | Settings | File Templates.
  */
-data class Greeting (
-        @ApiModelProperty(notes = "Provided user name", required =true)
+data class Greeting(
+        @ApiModelProperty(notes = "Provided user name", required = true)
         val player: String?,
 
-        @ApiModelProperty(notes = "The system generated greeting message" , readOnly =true)
+        @ApiModelProperty(notes = "The system generated greeting message", readOnly = true)
         val message: String?
-        )
+)
