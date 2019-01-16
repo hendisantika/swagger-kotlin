@@ -1,8 +1,8 @@
 # Spring Boot Swagger Kotlin
 
-Run this project by this command : `gradle clean bootRun`
+Run this project by this command : `./gradlew clean bootRun`
 
-Go to your browser and type this : http://localhost:8080/swagger-ui.html
+Go to your browser and type this : `http://localhost:8080/swagger-ui.html`
 
 ### Screenshot
 
