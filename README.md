@@ -17,3 +17,7 @@ Swagger Home Page 2
 Full Details Swagger Home Page
 
 ![Full Details Swagger Home Page](img/full.png "Full Details Swagger Home Page")
+
+New Swagger UI Home Page
+
+![New Swagger UI Home Page](img/Swagger-UI.png "New Swagger UI Home Page")
