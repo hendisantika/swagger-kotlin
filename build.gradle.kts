@@ -22,7 +22,7 @@ dependencies {
 //    implementation("io.springfox:springfox-swagger-ui:3.0.0")
 //    implementation("io.springfox:springfox-swagger2:3.0.0")
     // https://mvnrepository.com/artifact/org.springdoc/springdoc-openapi-starter-webmvc-ui
-    implementation("org.springdoc:springdoc-openapi-starter-webmvc-ui:2.8.12")
+    implementation("org.springdoc:springdoc-openapi-starter-webmvc-ui:2.8.13")
 
 //    implementation("org.springdoc:springdoc-openapi-ui:1.5.0")
 //    implementation("org.springdoc:springdoc-openapi-data-rest:1.5.0")
